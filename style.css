@@ -479,11 +479,7 @@ footer.copyright{
     }
     .banner h3{
         font-size: 1em;;
-    }
-    .textBx{
-        position:relative;
-        top:170px;
-    }
+	}
     .btn{
         margin-top: 10px;
         padding: 10px 20px;
@@ -537,7 +533,7 @@ footer.copyright{
     .baad{
 	    display:none;
 	}
-    .textBx{
+    .banner{
 	    justify-content:center;
 	    align-items:center;
 	}
